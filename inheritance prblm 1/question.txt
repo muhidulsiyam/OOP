@@ -1,0 +1,3 @@
+Suppose, you are given a class named "Point*.
+ Now write code inside the point class ,
+ so that at most 2 instances(objects) of the class can be created.
